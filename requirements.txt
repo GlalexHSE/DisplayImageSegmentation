@@ -1,0 +1,11 @@
+tensorflow==2.10.0
+numpy==1.24.2
+pandas==2.2.1
+matplotlib==3.8.0
+Pillow==10.1.0
+albumentations==2.0.5
+pycocotools==2.0.8
+roboflow==1.1.55
+segmentation-models==1.0.1
+
+
